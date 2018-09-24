@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6cad01836399c04e9c4cac2d9bcc118, type: 3}
+  m_Name: GameData
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 11400000, guid: 714a20cbc77a97e43a8af93a07450282, type: 2}
+    - {fileID: 11400000, guid: 7e87f93036171844c945cbff3e2932a3, type: 2}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: GameState
+      Entry: 7
+      Data: 0|MonitoredVariable`1[[GameStateType, Assembly-CSharp]], Assembly-CSharp
+    - Name: value
+      Entry: 3
+      Data: 4
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: GameMode
+      Entry: 7
+      Data: 1|MonitoredVariable`1[[GameModeScriptable, Assembly-CSharp]], Assembly-CSharp
+    - Name: value
+      Entry: 10
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: GameSkin
+      Entry: 7
+      Data: 2|MonitoredVariable`1[[GameSkinScriptable, Assembly-CSharp]], Assembly-CSharp
+    - Name: value
+      Entry: 10
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: TargetNumber
+      Entry: 7
+      Data: 3|MonitoredVariable`1[[System.Int32, mscorlib]], Assembly-CSharp
+    - Name: value
+      Entry: 3
+      Data: 10
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: InputNumbers
+      Entry: 7
+      Data: 4|MonitoredVariable`1[[System.Int32[], mscorlib]], Assembly-CSharp
+    - Name: value
+      Entry: 7
+      Data: 5|System.Int32[], mscorlib
+    - Name: 
+      Entry: 14
+      Data: 8
+    - Name: 
+      Entry: 3
+      Data: 4
+    - Name: 
+      Entry: 3
+      Data: 2
+    - Name: 
+      Entry: 3
+      Data: 2
+    - Name: 
+      Entry: 3
+      Data: 1
+    - Name: 
+      Entry: 3
+      Data: 3
+    - Name: 
+      Entry: 3
+      Data: 4
+    - Name: 
+      Entry: 3
+      Data: 2
+    - Name: 
+      Entry: 3
+      Data: 3
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  Game: {fileID: 11400000}
+  Settings: {fileID: 11400000, guid: 9ecc9f34ac1b0394195747b82d81240e, type: 2}
+  Debugger: {fileID: 11400000, guid: e3a09af371317dc4ea4c188f670da7a4, type: 2}
+  ResetOnPlayMode: 1
+  Score: 0
+  AccumulatedScore: 1080
+  LifeCount: 1
+  TimerValue: 60
+  IsBeatHiScoreInCurrentGame: 0
+  IsRunningOutOfTime: 0

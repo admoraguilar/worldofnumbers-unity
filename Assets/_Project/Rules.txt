@@ -1,0 +1,5 @@
+Rules:
+* If it needs Unity callbacks like Update, it's a MonoBehaviour.
+* If it doesn't need Unity callbacks and contains shared or non-shared states, it's a ScriptableObject.
+* If it's a swappable behaviour and needs Unity callbacks, it's a MonoBehaviour that utilizes a ScriptableObject swapping.
+* Unless totally needed, don't let MonoBehaviours go beyond the lines of 250.

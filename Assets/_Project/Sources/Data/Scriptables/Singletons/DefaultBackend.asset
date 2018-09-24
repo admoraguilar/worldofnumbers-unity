@@ -1,0 +1,233 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bdf10223e0cc2d4b806104d590677d5, type: 3}
+  m_Name: DefaultBackend
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: topLeaderboardEntries
+      Entry: 7
+      Data: 0|System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[LeaderboardEntry[],
+        Assembly-CSharp]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 1|System.Collections.Generic.GenericEqualityComparer`1[[System.String,
+        mscorlib]], mscorlib
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: LEADERBOARD_CLASSIC60
+    - Name: 
+      Entry: 7
+      Data: 2|LeaderboardEntry[], Assembly-CSharp
+    - Name: 
+      Entry: 12
+      Data: 2
+    - Name: 
+      Entry: 7
+      Data: 3|LeaderboardEntry, Assembly-CSharp
+    - Name: Rank
+      Entry: 3
+      Data: 1
+    - Name: Score
+      Entry: 3
+      Data: 10
+    - Name: DisplayName
+      Entry: 1
+      Data: Player
+    - Name: City
+      Entry: 1
+      Data: City
+    - Name: Country
+      Entry: 1
+      Data: XX
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 4|LeaderboardEntry, Assembly-CSharp
+    - Name: Rank
+      Entry: 3
+      Data: 2
+    - Name: Score
+      Entry: 3
+      Data: 5
+    - Name: DisplayName
+      Entry: 1
+      Data: Player2
+    - Name: City
+      Entry: 1
+      Data: City2
+    - Name: Country
+      Entry: 1
+      Data: YY
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: playerLeaderboardEntry
+      Entry: 7
+      Data: 5|System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[LeaderboardEntry,
+        Assembly-CSharp]], mscorlib
+    - Name: comparer
+      Entry: 9
+      Data: 1
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: LEADERBOARD_CLASSIC60
+    - Name: 
+      Entry: 7
+      Data: 6|LeaderboardEntry, Assembly-CSharp
+    - Name: Rank
+      Entry: 3
+      Data: 1
+    - Name: Score
+      Entry: 3
+      Data: 10
+    - Name: DisplayName
+      Entry: 1
+      Data: Player
+    - Name: City
+      Entry: 1
+      Data: City
+    - Name: Country
+      Entry: 1
+      Data: XX
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: savedData
+      Entry: 7
+      Data: 7|System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.String,
+        mscorlib]], mscorlib
+    - Name: comparer
+      Entry: 9
+      Data: 1
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: UserInfoData
+    - Name: 
+      Entry: 1
+      Data: "{\r\n  \"UserName\": \"test@gmail.com\",\r\n  \"UserId\": \"LocalTest\",\r\n
+        \ \"Password\": \"LocalPassword\",\r\n  \"DisplayName\": \"water\",\r\n  \"IsSignedInLastTime\":
+        true\r\n}"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: SettingsData
+    - Name: 
+      Entry: 1
+      Data: "{\r\n  \"IsAudioOn\": false\r\n}"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: 
+      Entry: 1
+      Data: GameData
+    - Name: 
+      Entry: 1
+      Data: "{\r\n  \"GameModes\": {\r\n    \"Classic60\": {\r\n      \"HiScore\":
+        4\r\n    }\r\n  },\r\n  \"AccumulatedScore\": 4,\r\n  \"RuntimeLoseCount\":
+        0,\r\n  \"DataTimestamp\": 636677034623997286,\r\n  \"IsNewPlayer\": false\r\n}"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  Game: {fileID: 11400000, guid: 17ca3f69e9e4a56469841c9716bfd977, type: 2}
+  Settings: {fileID: 11400000, guid: 9ecc9f34ac1b0394195747b82d81240e, type: 2}
+  Debugger: {fileID: 11400000, guid: e3a09af371317dc4ea4c188f670da7a4, type: 2}
+  ResetOnPlayMode: 1
+  StatusSignedIn: SIGNED IN! WELCOME!
+  StatusSignedOut: SIGNED OUT! SEE YOU AGAIN!
+  StatusNotValidEmailAddress: EMAIL ADDRESS NOT VALID!
+  StatusNotValidDisplayName: DISPLAY NAME NOT VALID!
+  StatusUserNameTaken: USERNAME IS TAKEN!
+  StatusUserNotRecognized: USER NOT RECOGNIZED!
+  StatusUserLocked: USER TEMPORARILY LOCKED!
+  StatusRegistering: REGISTERING...
+  StatusRegistrationSuccess: REGISTRATION SUCCESS!
+  StatusRegistrationFailed: REGISTRATION FAILED!
+  StatusAuthenticating: SIGNING YOU IN...
+  StatusAuthenticationSuccess: SIGN IN SUCCESS, ALL GOOD!
+  StatusAuthenticationFailed: SIGN IN FAILED
+  statusInfo: SIGN IN SUCCESS, ALL GOOD!
+  isAvailable: 1
+  isAuthenticated: 1
+  userInfo:
+    UserName: test@gmail.com
+    UserId: LocalTest
+    Password: LocalPassword
+    DisplayName: water
+    IsSignedInLastTime: 1

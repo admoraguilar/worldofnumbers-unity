@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0eb08952326e6c4cb88c91a02e0bf3d, type: 3}
+  m_Name: SettingsData
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: IsAudioOn
+      Entry: 7
+      Data: 0|MonitoredVariable`1[[System.Boolean, mscorlib]], Assembly-CSharp
+    - Name: value
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 8
+      Data: 
+  Game: {fileID: 11400000, guid: 17ca3f69e9e4a56469841c9716bfd977, type: 2}
+  Settings: {fileID: 11400000}
+  ResetOnPlayMode: 1
+  TargetFramerate: 60
+  LoseCountToEnableAds: 3
+  AdsCurrencyCountPerEnabled: 2
+  MaxBoostersPerGame: 3
+  BackgroundSwapInterval: 2
+  SplashScreenShowLength: 2
+  BackgroundSprites:
+  - {fileID: 21300000, guid: 2908ef3b6e262a448a02154aa6b84475, type: 3}
+  - {fileID: 21300000, guid: 5edef7c955fa6c64c9327a50fd298204, type: 3}
+  - {fileID: 21300000, guid: b3e9e28c16f4c624f92d2d4a7d606420, type: 3}
+  - {fileID: 21300000, guid: 1c4eae6c2087b33418905e5a9fb9a43d, type: 3}
+  - {fileID: 21300000, guid: 5f16263a1098a24438b5a4397adade32, type: 3}
+  - {fileID: 21300000, guid: dc667d361465a57439646ff340887434, type: 3}
+  - {fileID: 21300000, guid: cd9c2b13b0fd08748a68a2c035cd3412, type: 3}
+  GameModes:
+  - {fileID: 11400000, guid: 714a20cbc77a97e43a8af93a07450282, type: 2}
+  GameSkins:
+  - {fileID: 11400000, guid: 7e87f93036171844c945cbff3e2932a3, type: 2}
+  - {fileID: 11400000, guid: 28712c88e5b0fc84e9106495629d5755, type: 2}
+  CreditsNames:
+  - Laurence Chua
+  - "Kevin Aurelio \xFC"
+  - Jericho Allas
+  - "Kristianne Coleen Ca\xF1amo"
+  - Andrew Perez
+  - Joshua Matias
+  - Pam Jaboneta
+  - Grace Sarmiento
+  - Joel B.
+  - LA Aguilar
+  - Sid Alfred Gamboa
+  - "Justin Avenda\xF1o"
+  - Diego Hidalgo
+  - Katherine Celeste H. Leonidas
+  - Kitt Castillo
+  - Jeanne Genevive Pillejera
+  - Fjord Santos
+  - kira
+  - Bea Limjoco
+  - Holaissa O. Jaboneta
+  - Micah del Carmen
+  - Nikki Yu
+  - Angel Flores
+  - Jan Dantes
+  - John David G. Sarmiento
+  - John Paul Lam
+  - Dyem Carreon
+  - Dong Allada
+  - Trishell Canaya
+  - Hadrian M Bucsit
+  - Rachel Barawid
+  - Nicolle Gaddi
+  - Mark J. Despabiladeras
+  - Neil
+  - Mark Bantigue
+  TipsText:
+  - Practice makes perfect!
+  - Ready Player One!
+  - I wonder what she's doing right no~I mean great game!
+  - A Math Genius never gives up!
+  - 'How to fry an egg: 1. Buy an egg, 2. Fry it, 3. Profit'
+  - Oh come on! I know you could top that score!
+  - Just keep the spirit going!
+  - Chill it's just a game! The fun is what matters!
+  - Brickwalls are there for a reason.
+  - Limits like fear, are often an illusion.
+  - Who's your favorite KPOP group? Tell us through email! hihi
+  - Your attitude determines your altitude.
+  RuntimeLoseCountToEnableAds: 3
+  RuntimeAdsCurrencyCount: 2
+  IsNewPlayer: 1
+  IsSignedInLastTime: 0

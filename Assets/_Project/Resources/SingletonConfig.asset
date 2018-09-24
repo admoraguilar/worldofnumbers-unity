@@ -1,0 +1,175 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d340c53a4f7cbcf41a5121933ceaf0af, type: 3}
+  m_Name: SingletonConfig
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 11400000, guid: 17ca3f69e9e4a56469841c9716bfd977, type: 2}
+    - {fileID: 11400000, guid: 9ecc9f34ac1b0394195747b82d81240e, type: 2}
+    - {fileID: 11400000, guid: 5ffd0832e05856d4c9a029b4d647b6e8, type: 2}
+    - {fileID: 11400000, guid: f6787bf40bf84ee498d19a8e93b51182, type: 2}
+    - {fileID: 11400000, guid: c3e21280fb70a1d40914049a0968810f, type: 2}
+    - {fileID: 11400000, guid: 5c8736273ed783c45b40590980c91e13, type: 2}
+    - {fileID: 11400000, guid: e3a09af371317dc4ea4c188f670da7a4, type: 2}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: Singletons
+      Entry: 7
+      Data: 0|System.Collections.Generic.Dictionary`2[[System.Type, mscorlib],[UnityEngine.ScriptableObject,
+        UnityEngine.CoreModule]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 1|System.Collections.Generic.EqualityComparer`1+DefaultComparer[[System.Type,
+        mscorlib]], mscorlib
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 7
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 2|System.MonoType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: GameData, Assembly-CSharp
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 10
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 3|System.MonoType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: SettingsData, Assembly-CSharp
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 10
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 4|System.MonoType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: ABackendScriptable, Assembly-CSharp
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 10
+      Data: 2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 5|System.MonoType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: AAdsScriptable, Assembly-CSharp
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 10
+      Data: 3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 6|System.MonoType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: ANativeShareScriptable, Assembly-CSharp
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 10
+      Data: 4
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 7|System.MonoType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: AUiScriptable, Assembly-CSharp
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 10
+      Data: 5
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 8|System.MonoType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: ADebugScriptable, Assembly-CSharp
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 10
+      Data: 6
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 

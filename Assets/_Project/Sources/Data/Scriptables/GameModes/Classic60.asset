@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0f574271060a0845ab6c64d30a6651e, type: 3}
+  m_Name: Classic60
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Game: {fileID: 11400000, guid: 17ca3f69e9e4a56469841c9716bfd977, type: 2}
+  Settings: {fileID: 11400000, guid: 9ecc9f34ac1b0394195747b82d81240e, type: 2}
+  ResetOnPlayMode: 1
+  ScoreEachSet: 2
+  PlayTimeLength: 60
+  TimeBombStartTime: 10
+  LeaderboardCode: LEADERBOARD_CLASSIC60
+  LeaderboardEventCode: SUBMITSCORELEADERBOARD_CLASSIC60
+  AvailableBoosters:
+  - {fileID: 11400000, guid: 1672c43b1bbef504c98fd9458d62f0a6, type: 2}
+  HiScore: 0
+  TargetNumberRangeMin: 5
+  TargetNumberRangeMax: 20
+  InputNumbersDivideCount: 4
+  InputNumbersMaxNumber: 8
+  InputNumbersPercentRangeMin: 1
+  InputNumbersPercentRangeMax: 25
