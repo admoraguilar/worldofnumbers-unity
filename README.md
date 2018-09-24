@@ -1,5 +1,7 @@
 # unity-worldofnumbers
-Source code for World of Numbers (https://itunes.apple.com/ph/app/world-of-numbers/id1407198093?mt=8).
+Source code for World of Numbers 
+* Apple App Store: https://itunes.apple.com/ph/app/world-of-numbers/id1407198093?mt=8
+* Google Play Store: https://play.google.com/store/apps/details?id=com.ProjectJW.WorldOfNumbers
 
 ##### Specs
 * Engine: Unity 2018.1.2f1
