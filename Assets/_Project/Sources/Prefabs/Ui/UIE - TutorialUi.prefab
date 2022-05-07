@@ -722,6 +722,7 @@ MonoBehaviour:
   Ads: {fileID: 11400000, guid: f6787bf40bf84ee498d19a8e93b51182, type: 2}
   NativeShare: {fileID: 11400000, guid: c3e21280fb70a1d40914049a0968810f, type: 2}
   Ui: {fileID: 0}
+  Debugger: {fileID: 0}
   backToGameButton: {fileID: 114997176205340054}
 --- !u!114 &114645305788820670
 MonoBehaviour:
@@ -1164,6 +1165,7 @@ MonoBehaviour:
   Ads: {fileID: 11400000, guid: f6787bf40bf84ee498d19a8e93b51182, type: 2}
   NativeShare: {fileID: 11400000, guid: c3e21280fb70a1d40914049a0968810f, type: 2}
   Ui: {fileID: 0}
+  Debugger: {fileID: 0}
   uiElement: {fileID: 114645305788820670}
   toggleOnState: 6
   toggleType: 0
@@ -2423,7 +2425,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 25.500002}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -264, y: 159}
+  m_AnchoredPosition: {x: 97, y: -218}
   m_SizeDelta: {x: 134.6, y: 134.6}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!224 &224199795273079658
