@@ -1,0 +1,231 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1726182683, guid: a4865f1ab4504ed8a368670db22f409c, type: 3}
+  m_Name: AOTGenerationConfig
+  m_EditorClassIdentifier: 
+  excludeAssemblyDefinitionsWithEditorReference: 0
+  automateBeforeBuilds: 1
+  deleteDllAfterBuilds: 1
+  automateForPlatforms: 09000000140000000d000000
+  lastScan: 636680544213213858
+  supportSerializedTypes:
+  - TypeName: Sirenix.OdinInspector.Demos.A, Assembly-CSharp-firstpass
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Action, System.Core
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Action`1[[UnityEngine.Vector3, UnityEngine.CoreModule]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Sirenix.OdinInspector.Demos.B, Assembly-CSharp-firstpass
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Boolean, mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Boolean[,], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Sirenix.OdinInspector.Demos.CustomGroupExample+Thingy, Assembly-CSharp-firstpass
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.DateTime, mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Sirenix.OdinInspector.Demos.DebugSerializationExample+OdinSerializedClass,
+      Assembly-CSharp-firstpass
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.Dictionary`2[[Sirenix.OdinInspector.Demos.DictionaryExamples+SomeEnum,
+      Assembly-CSharp-firstpass],[Sirenix.OdinInspector.Demos.DictionaryExamples+MyCustomType,
+      Assembly-CSharp-firstpass]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.Dictionary`2[[System.Int32, mscorlib],[UnityEngine.Material,
+      UnityEngine.CoreModule]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[LeaderboardEntry[],
+      Assembly-CSharp]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[LeaderboardEntry,
+      Assembly-CSharp]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Collections.Generic.List`1[[System.Int32,
+      mscorlib]], mscorlib]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.String,
+      mscorlib]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.Dictionary`2[[System.Type, mscorlib],[UnityEngine.ScriptableObject,
+      UnityEngine.CoreModule]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Sirenix.OdinInspector.Demos.DictionaryExamples+MyCustomType, Assembly-CSharp-firstpass
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Sirenix.OdinInspector.Demos.DictionaryExamples+SomeEnum, Assembly-CSharp-firstpass
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.EqualityComparer`1+DefaultComparer[[Sirenix.OdinInspector.Demos.DictionaryExamples+SomeEnum,
+      Assembly-CSharp-firstpass]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.EqualityComparer`1+DefaultComparer[[System.Type,
+      mscorlib]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Single, mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Func`1[[System.Int32, mscorlib]], System.Core
+    IsCustom: 0
+    Emit: 1
+  - TypeName: UnityEngine.GameObject[], UnityEngine.CoreModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: GameStateType, Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.GenericEqualityComparer`1[[System.Int32,
+      mscorlib]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.GenericEqualityComparer`1[[System.String,
+      mscorlib]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Sirenix.OdinInspector.Demos.HideReferenceObjectPickerExamples+MyCustomReferenceType,
+      Assembly-CSharp-firstpass
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Sirenix.OdinInspector.Demos.ImplA, Assembly-CSharp-firstpass
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Sirenix.OdinInspector.Demos.ImplB, Assembly-CSharp-firstpass
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Sirenix.OdinInspector.Demos.IncorrectUseOfOdinSerializeAttributeExamples2+MyCustomType,
+      Assembly-CSharp-firstpass
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Sirenix.OdinInspector.InfoMessageType, Sirenix.OdinInspector.Attributes
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Sirenix.OdinInspector.InfoMessageType[,], Sirenix.OdinInspector.Attributes
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Int32, mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Int32[,], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Int32[], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Sirenix.OdinInspector.Demos.ISomeInterface[], Assembly-CSharp-firstpass
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Sirenix.OdinInspector.Demos.RPGEditor.ItemSlot, Assembly-CSharp-firstpass
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Sirenix.OdinInspector.Demos.RPGEditor.ItemSlot[,], Assembly-CSharp-firstpass
+    IsCustom: 0
+    Emit: 1
+  - TypeName: LeaderboardEntry, Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: LeaderboardEntry[], Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.List`1[[Sirenix.OdinInspector.Demos.A, Assembly-CSharp-firstpass]],
+      mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.List`1[[System.Int32, mscorlib]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: MonitoredVariable`1[[System.Boolean, mscorlib]], Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: MonitoredVariable`1[[GameModeScriptable, Assembly-CSharp]], Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: MonitoredVariable`1[[GameSkinScriptable, Assembly-CSharp]], Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: MonitoredVariable`1[[GameStateType, Assembly-CSharp]], Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: MonitoredVariable`1[[System.Int32[], mscorlib]], Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: MonitoredVariable`1[[System.Int32, mscorlib]], Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Sirenix.OdinInspector.Demos.MyGeneric`1[[System.Single, mscorlib]],
+      Assembly-CSharp-firstpass
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Sirenix.OdinInspector.Demos.MyGeneric`1[[UnityEngine.GameObject[], UnityEngine.CoreModule]],
+      Assembly-CSharp-firstpass
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Sirenix.OdinInspector.Demos.MyGenericClass`2[[System.Int32, mscorlib],[UnityEngine.GameObject,
+      UnityEngine.CoreModule]], Assembly-CSharp-firstpass
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Sirenix.OdinInspector.Demos.MyGenericClass`2[[System.Int32, mscorlib],[System.Int32,
+      mscorlib]], Assembly-CSharp-firstpass
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Sirenix.OdinInspector.Demos.MyGenericClass`2[[System.String, mscorlib],[System.Collections.Generic.List`1[[System.String,
+      mscorlib]], mscorlib]], Assembly-CSharp-firstpass
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Sirenix.OdinInspector.Demos.MyGenericClass`2[[System.String, mscorlib],[System.String,
+      mscorlib]], Assembly-CSharp-firstpass
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Sirenix.OdinInspector.Demos.MyGenericClass`2[[UnityEngine.Vector3, UnityEngine.CoreModule],[UnityEngine.Quaternion,
+      UnityEngine.CoreModule]], Assembly-CSharp-firstpass
+    IsCustom: 0
+    Emit: 1
+  - TypeName: UnityEngine.Quaternion, UnityEngine.CoreModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.String, mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.String[,], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: UnityEngine.Texture2D[,], UnityEngine.CoreModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Type[], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: UnityEngine.Vector3, UnityEngine.CoreModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Nullable`1[[UnityEngine.Vector3, UnityEngine.CoreModule]], mscorlib
+    IsCustom: 0
+    Emit: 1

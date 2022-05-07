@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "com.unity.textmeshpro": "1.2.4",
+    "com.unity.ads": "2.0.8"
+  }
+}
